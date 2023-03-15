@@ -1,0 +1,26 @@
+{
+  "name": "multicall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akkii4/MultiCall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akkii4/MultiCall/issues"
+  },
+  "homepage": "https://github.com/Akkii4/MultiCall#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0"
+  }
+}
